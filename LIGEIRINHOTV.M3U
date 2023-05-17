@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="Brasil: variedades em português",Record - TV Conquista - TA | Brasil
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="Brasil: variedades em português",Record TV | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f185ae10150a0007049e0c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="Brasil: variedades em português",Record TV - Plutão TV | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f185ae10150a0007049e0c/master.m3u8?
+#EXTINF:-1 tvg-id="BandSP.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="A novidade",Band | Brasil: variedades em português
+https://spalla-babbage.akamaized.net/live/0187f2ed-02d2-7d04-8f99-bf8a0a59e749/s1/playlist-1080p.m3u8
+#EXTINF:-1 tvg-id="BandSP.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Banda | Brasil
+https://spalla-babbage.akamaized.net/live/0187f2ed-02d2-7d04-8f99-bf8a0a59e749/s1/playlist-1080p.m3u8
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT= 1
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Brasil: notícias em português",Record News - Rede Sim | espírito santo
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="Brasil: variedades em português",Jovem Pan | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="Brasil: variedades em português",Jovem Pan | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/ZgnRZ47.png" group-title="Brasil: variedades em português",Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/master.m3u8
